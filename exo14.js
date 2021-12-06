@@ -5,7 +5,6 @@ export const checkString = (val) =>
   val !== val.toUpperCase()
     ? "cette chaine est en mminuscule"
     : "cette chaine est en majuscule";
-a
 
 
 
